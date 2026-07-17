@@ -1,0 +1,6 @@
+{
+  "name": "RedZen Suites",
+  "description": "Premium brand website for RedZen Suites featuring an interactive Dutch KVK eco-economic optimization modeler, sustainable technology showcase, and direct Google Drive-powered client inquiry ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
